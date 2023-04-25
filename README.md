@@ -9,6 +9,8 @@
   <a href="https://github.com/Alper-Enes-DURU"><img src="https://github-readme-stats.vercel.app/api?username=Alper-Enes-DURU&show_icons=true&theme=radical&include_all_commits=true" alt="Alper Duru's github stats"></a>
 </p>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Alper-Enes-DURU&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alper-Enes-DURU&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Alper-Enes-DURU.Alper-Enes-DURU)
